@@ -1,3 +1,28 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Dotnet Evangelist'
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "M.F.M Fazrin - All rights reserved"
+disqusShortname = "shortDisquis"
+googleAnalytics = "UA-1XXXXXXX1-X"
+
+
+[params.author]
+  name = "M.F.M Fazrin"
+  thumbnail = "/images/profilePhoto.png"
+  description = "Author of Dotnet Evangelist"
+
+[params.social]
+    github = "nirzaf"
+    linkedin = "mfmfazrin"
+
+[params.menu]
+    main = [
+        { name = "Home", url = "/", weight = 1 },
+        { name = "About", url = "/about/", weight = 2 },
+        { name = "Contact", url = "/contact/", weight = 3 },
+    ]
+    
+
+
