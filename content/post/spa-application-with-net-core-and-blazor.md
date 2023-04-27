@@ -8,7 +8,7 @@ tags : ["C#", ".Net Core", "Blazor", "SPA"]
 
 ### Introduction
 
-!["Title Image"] (https://i.ibb.co/1f7yCMx/1-r8l-WHb-H-mg-Wkl462l-Qs-Yu-Q.jpg)
+!["Title Image"](https://i.ibb.co/1f7yCMx/1-r8l-WHb-H-mg-Wkl462l-Qs-Yu-Q.jpg)
 
 <p>In this article, we will create a Single Page Application (SPA) using server-side Blazor. We will use an Entity Framework Core database. Single-Page Applications are web applications that load a single HTML page. They dynamically update that page as the user interacts with the app.</p>
 
