@@ -1,5 +1,5 @@
 ---
-title: "String_builder_vs_string_writer"
+title: "String Builder vs String Writer in C#"
 date: 2023-04-27T20:39:33+03:00
 draft: false
 ---
