@@ -2,6 +2,7 @@
 title: "Graphs in Csharp"
 date: 2023-04-27T12:05:02+03:00
 draft: false
+pin: true
 tags : ["C#", "Graphs", "Data Structures"]
 ---
 
