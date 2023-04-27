@@ -1,6 +1,6 @@
 ---
-title: "Building Windows UI With WPF"
-date: 2019-08-30T15:27:53+05:30
+title: "Building Windows App With Wpf"
+date: 2023-04-27T23:41:33+03:00
 draft: false
 tags : ["wpf"]
 ---
@@ -23,4 +23,6 @@ tags : ["wpf"]
 ##### Category: Windows
 
 <p>Download the complete PDF E-Book from this link <a href="https://github.com/nirzaf/Mastering-Windows-Presentation-Foundation/blob/master/Mastering%20Windows%20Presentation%20Foundation.pdf">here</a></p>
+
+
 
