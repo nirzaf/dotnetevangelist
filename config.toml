@@ -1,23 +1,23 @@
-baseURL = "https://meik2333.com/"
+baseURL = "https://dotnetevangelist.net/"
 languageCode = "zh-cn"
-title = "MeiK's blog"
+title = "Dotnet Evangelist"
 theme = "github-style"
 googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-author = "MeiK"
+author = "Fazrin"
 description = "In solitude, where we are least alone."
 github = "nirzaf"
 linkedin = "mfmfazrin"
 email = "mfmfazrin1986@gmail.com"
-url = "https://meik2333.com"
+url = "https://dotnetevangelist.net/"
 keywords = "blog, google analytics"
 rss = true
 lastmod = true
 userStatusEmoji = "😀"
-favicon = "/images/github.png"
+favicon = "https://avatars.githubusercontent.com/u/18024930?v=4"
 location = "Qatar"
 enableGitalk = true
 
@@ -36,11 +36,11 @@ distractionFreeMode = false
 
 [[params.links]]
 title = "Link"
-href = "https://github.com/meik2333"
+href = "https://github.com/nirzaf"
 [[params.links]]
 title = "Link2"
-href = "https://meik2333.com"
-icon = "https://meik2333.com/images/avatar.png"
+href = "https://dotnetevangelist.net"
+icon = "https://avatars.githubusercontent.com/u/18024930?v=4"
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
