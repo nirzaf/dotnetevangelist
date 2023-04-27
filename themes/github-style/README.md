@@ -140,7 +140,7 @@ mathJax: true
 ## config.toml example
 
 ```toml
-baseURL = "https://meik2333.com/"
+baseURL = "https://dotnetevangelist.net/"
 languageCode = "zh-cn"
 title = "MeiK's blog"
 theme = "github-style"
@@ -158,7 +158,7 @@ pygmentsUseClasses = true
   instagram = "MeiK2333"
   tumblr = "MeiK2333"
   email = "meik2333@gmail.com"
-  url = "https://meik2333.com"
+  url = "https://dotnetevangelist.net"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
@@ -185,8 +185,8 @@ pygmentsUseClasses = true
     href = "https://github.com/meik2333"
   [[params.links]]
     title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    href = "https://dotnetevangelist.net"
+    icon = "https://dotnetevangelist.net/images/avatar.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
