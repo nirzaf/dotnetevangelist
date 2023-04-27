@@ -2,7 +2,8 @@
 title: "Building an Angular Project With Bootstrap 4 and Firebase"
 date: 2019-10-18T12:51:54+05:30
 draft: false
-tags : ["angular"]
+pin : true
+tags : ["Angular", "Bootstrap", "Firebase"]
 ---
 
 !["Angular App With Firebase"](https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571642424/1_ocLdKFc0yd5cIZz_oIP_hg_zgvgef.png)

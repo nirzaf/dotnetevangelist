@@ -2,7 +2,8 @@
 title: "Microsoft Blazor Web API with JWT Authentication"
 date: 2019-10-23T09:54:59+05:30
 draft: true
-tags: ["blazor"]
+pin : true
+tags: ["blazor", "jwt", "dotnetcore"]
 ---
 
 !["NET-Core"](https://i.ibb.co/0FgXTx0/1-zaw5-Gv-QLr-Bs-EED68-Ce-M9ew.png)

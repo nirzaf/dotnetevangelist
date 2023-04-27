@@ -2,6 +2,8 @@
 title: "String Builder vs String Writer in C#"
 date: 2023-04-27T20:39:33+03:00
 draft: false
+pin: true
+tags : ["C#", "String Builder", "String Writer"]
 ---
 
 In C#, both StringWriter and StringBuilder are classes that are used to manipulate strings. However, they have different use cases and are optimized for different scenarios.

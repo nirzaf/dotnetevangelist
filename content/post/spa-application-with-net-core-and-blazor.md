@@ -2,7 +2,8 @@
 title: "Single Page Application With .Net Core and Blazor"
 date: 2019-10-27T21:41:31+05:30
 draft: false
-tags : ["Blazor"]
+pin : true
+tags : ["C#", ".Net Core", "Blazor", "SPA"]
 ---
 
 !["Title Image"] (https://i.ibb.co/1f7yCMx/1-r8l-WHb-H-mg-Wkl462l-Qs-Yu-Q.jpg)
