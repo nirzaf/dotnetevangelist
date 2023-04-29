@@ -8,13 +8,13 @@ pygmentsUseClasses = true
 
 [params]
 author = "Fazrin"
-description = "In solitude, where we are least alone."
+description = "Passionate about making the end-user experience as seamless as possible"
 github = "nirzaf"
 linkedin = "mfmfazrin"
 email = "mfmfazrin1986@gmail.com"
 url = "https://dotnetevangelist.net/"
-keywords = "blog, google analytics"
-rss = true
+keywords = "dot net evangelist, mohamed, fazrin, farook, mfmfazrin, senior, software, engineer"
+rss = false
 lastmod = true
 userStatusEmoji = "😀"
 favicon = "https://avatars.githubusercontent.com/u/18024930?v=4"
