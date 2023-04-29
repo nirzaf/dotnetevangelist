@@ -1,7 +1,12 @@
 ---
 title: "Sidecar Pattern With Examples in Asp.NET Core"
 date: 2023-04-29T23:46:56+03:00
-draft: true
+draft: false
+pin : true
+tags: ["Sidecar", "Asp.NET Core"]
+categories: ["Architecture"]
+featuredImage: "https://miro.medium.com/v2/resize:fit:1400/1*BradCRNTX2go18qcCBNtZQ.png"
+
 ---
 
 The Sidecar pattern is a software architecture pattern that involves splitting an application into two separate processes: a primary application and a “sidecar” process. The sidecar process runs alongside the main application and provides additional functionality, such as caching, logging, monitoring, or authentication.
