@@ -1,6 +1,7 @@
 ---
 title: "Factory Design Pattern With C#"
 date: 2023-04-29T20:47:22+03:00
+pin : true
 draft: false
 ---
 

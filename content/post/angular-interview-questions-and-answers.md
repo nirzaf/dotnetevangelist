@@ -3,7 +3,7 @@ title: "Angular Interview Questions and Answers Part 1"
 date: 2019-09-21T09:59:03+05:30
 draft: false
 tags : ["angular", "interview"]
-pin: true
+pin: false
 
 ---
 !["Angular Logo"](https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571632021/1_klTLGz5T5Ryy4QVBkgsNCQ_lf5kdf.jpg)
