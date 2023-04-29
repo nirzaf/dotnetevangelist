@@ -5,6 +5,7 @@ theme = "github-style"
 googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+comment = false
 
 [params]
 author = "Fazrin"
@@ -19,16 +20,8 @@ lastmod = true
 userStatusEmoji = "😀"
 favicon = "https://avatars.githubusercontent.com/u/18024930?v=4"
 location = "Qatar"
-enableGitalk = true
+enableGitalk = false
 
-[params.gitalk]
-clientID = "Your client ID"
-clientSecret = "Your client secret"
-repo = "repo"
-owner = "MeiK2333"
-admin = "MeiK2333"
-id = "location.pathname"
-labels = "gitalk"
 perPage = 15
 pagerDirection = "last"
 createIssueManually = true
