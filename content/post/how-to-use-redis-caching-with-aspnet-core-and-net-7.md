@@ -5,7 +5,7 @@ pin : true
 draft: false
 ---
 
-![Redis](../../images/redis.png)
+![Redis](https://res.cloudinary.com/dcx7eongu/image/upload/v1682851876/redis_rwmq2o.png)
 
 Caching is a crucial aspect of web application development. It can help reduce the load on the database, speed up application performance, and improve scalability. Redis is a popular in-memory data store that can be used for caching in ASP.NET Core applications. In this article, we will go through the steps involved in using Redis caching with ASP.NET Core and .NET 7.
 
