@@ -12,17 +12,18 @@ description = "Passionate about making the end-user experience as seamless as po
 github = "nirzaf"
 linkedin = "mfmfazrin"
 email = "mfmfazrin1986@gmail.com"
+hide_post_meta = true
 url = "https://dotnetevangelist.net/"
 keywords = "dot net evangelist, mohamed, fazrin, farook, mfmfazrin, senior, software, engineer"
 rss = false
-showPostActivity = false
 lastmod = true
 userStatusEmoji = "😀"
 favicon = "/images/favicon.ico"
 location = "Qatar"
 enableGitalk = false
 
-perPage = 15
+
+perPage = 30
 pagerDirection = "last"
 createIssueManually = true
 distractionFreeMode = true
