@@ -28,16 +28,16 @@ pygmentsUseClasses = true
   [params.gitalk]
     clientID = "Your client ID" # Your client ID
     clientSecret = "Your client secret" # Your client secret
-    repo = "LuvSia" # 您的博客的github地址Repository name，例如：xxxx.github.io
-    owner = "ventusoon" # 您的GitHub ID
-    admin = "ventusoon" # 您的GitHub ID
-    id = "location.pathname" # 文章页面的链接地址就是ID
+    repo = "LuvSia" # The github address of your blog Repository name, for example: xxxx.github.io
+    owner = "ventusoon" # your GitHub ID
+    admin = "ventusoon" # your GitHub ID
+    id = "location.pathname" # The link address of the article page is the ID
     labels = "gitalk" # Github issue labels. If you used to use Gitment, you can change it
     perPage = 15 # Pagination size, with maximum 100.
     pagerDirection = "last" # Comment sorting direction, available values are 'last' and 'first'.
-    createIssueManually = true # 设置为true，如果是管理员登录，会自动创建issue，如果是false，需要管理员手动添加第一个评论(issue)
+    createIssueManually = true # Set to true, if the administrator logs in, an issue will be created automatically, if it is false, the administrator needs to manually add the first comment (issue)
     distractionFreeMode = false # Enable hot key (cmd|ctrl + enter) submit comment.    
-    proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # 可以自行添加反向代理
+    proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # You can add reverse proxy by yourself
   [[params.links]]
     title = "Link"
     href = "https://github.com/meik2333"
