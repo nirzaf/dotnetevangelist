@@ -1,7 +1,6 @@
 ---
 title: "Calculations in Your Head"
 date: 2022-08-21T09:04:28+05:30
-pin : true
 draft: false
 ---
 
