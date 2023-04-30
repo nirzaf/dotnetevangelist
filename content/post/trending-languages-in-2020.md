@@ -1,6 +1,6 @@
 ---
-title: "Trending Programming Languages in 2020"
-date: 2019-10-20T13:13:01+05:30
+title: "Trending Programming Languages in 2023"
+date: 2022-10-20T13:13:01+05:30
 draft: false
 image: "https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571629800/trending2020_oxfqm0.jpg"
 tags: ["Technical-contents"]
@@ -10,7 +10,7 @@ comments: false
 
 ![Trending Programming Languages](https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571629800/trending2020_oxfqm0.jpg)
 
-The year 2020 sounds like it’s derived from science fiction, yet here we are — about to knock on its front door. If you’re curious about what the future might bring to the programming world, you’re in the right place. I might be completely wrong — don’t quote me on this— but here’s what I think will happen. I can’t predict the future, but I can make educated guesses.
+The year 2023 sounds like it’s derived from science fiction, yet here we are — about to knock on its front door. If you’re curious about what the future might bring to the programming world, you’re in the right place. I might be completely wrong — don’t quote me on this— but here’s what I think will happen. I can’t predict the future, but I can make educated guesses.
 
 ## RUST
 

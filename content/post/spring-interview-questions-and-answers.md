@@ -1,6 +1,6 @@
 ---
 title: "Spring Interview Questions and Answers"
-date: 2019-10-15T19:51:17+05:30
+date: 2021-10-15T19:51:17+05:30
 draft: false
 tags: ["spring"]
 ---

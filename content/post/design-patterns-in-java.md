@@ -1,6 +1,6 @@
 ---
 title: "Design Patterns in Java"
-date: 2019-10-22T14:04:38+05:30
+date: 2022-10-22T14:04:38+05:30
 draft: false
 tags: ["design patterns"]
 ---

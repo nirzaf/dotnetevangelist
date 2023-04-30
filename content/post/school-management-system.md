@@ -1,6 +1,6 @@
 ---
 title: "School Management System"
-date: 2019-11-04T07:46:43+05:30
+date: 2022-11-04T07:46:43+05:30
 draft: false
 ---
 

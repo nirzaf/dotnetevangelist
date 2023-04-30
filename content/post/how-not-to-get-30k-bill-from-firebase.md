@@ -1,6 +1,6 @@
 ---
 title: "How Not to Get 30k Bill From Firebase"
-date: 2019-09-15T11:56:47+05:30
+date: 2022-09-15T11:56:47+05:30
 draft: false
 tags: ["firebase"]
 ---
