@@ -1,6 +1,6 @@
 ---
 title: "Advance Stock Manager With Point of Sale System"
-date: 2019-11-05T07:50:21+05:30
+date: 2022-11-05T07:50:21+05:30
 draft: false
 ---
 

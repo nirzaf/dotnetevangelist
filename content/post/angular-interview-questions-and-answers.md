@@ -1,6 +1,6 @@
 ---
 title: "Angular Interview Questions and Answers Part 1"
-date: 2019-09-21T09:59:03+05:30
+date: 2022-09-21T09:59:03+05:30
 draft: false
 tags : ["angular", "interview"]
 pin: false

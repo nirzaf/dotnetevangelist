@@ -1,6 +1,6 @@
 ---
 title: "Single Page Application With .Net Core and Blazor"
-date: 2019-10-27T21:41:31+05:30
+date: 2021-10-27T21:41:31+05:30
 draft: false
 pin : false
 tags : ["C#", ".Net Core", "Blazor", "SPA"]
