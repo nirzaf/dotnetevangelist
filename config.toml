@@ -5,7 +5,6 @@ theme = "github-style"
 googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-comment = false
 
 [params]
 author = "Fazrin"
@@ -16,6 +15,7 @@ email = "mfmfazrin1986@gmail.com"
 url = "https://dotnetevangelist.net/"
 keywords = "dot net evangelist, mohamed, fazrin, farook, mfmfazrin, senior, software, engineer"
 rss = false
+showPostActivity = false
 lastmod = true
 userStatusEmoji = "😀"
 favicon = "https://avatars.githubusercontent.com/u/18024930?v=4"
@@ -25,7 +25,7 @@ enableGitalk = false
 perPage = 15
 pagerDirection = "last"
 createIssueManually = true
-distractionFreeMode = false
+distractionFreeMode = true
 
 [[params.links]]
 title = "Link"
