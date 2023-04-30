@@ -18,7 +18,7 @@ rss = false
 showPostActivity = false
 lastmod = true
 userStatusEmoji = "😀"
-favicon = "https://avatars.githubusercontent.com/u/18024930?v=4"
+favicon = "/images/favicon.ico"
 location = "Qatar"
 enableGitalk = false
 
