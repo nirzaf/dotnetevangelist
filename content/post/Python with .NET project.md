@@ -2,7 +2,7 @@
 title: "Python With .NET Project"
 date: 2023-04-30T06:50:59Z
 draft: false
-pin : true
+pin : false
 tags: ["python", ".net", "c#", "ironpython", "pythonnet"]
 ---
 
