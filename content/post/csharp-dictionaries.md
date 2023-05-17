@@ -2,7 +2,7 @@
 title: "Dictionaries in C#"
 date: 2023-05-01T22:19:17+03:00
 draft: false
-pin : true
+pin : false
 tags: ["csharp", "dictionaries", "hashmaps"]
 
 ---
