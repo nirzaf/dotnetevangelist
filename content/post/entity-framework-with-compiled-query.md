@@ -1,10 +1,15 @@
 ---
 title: "Pros and Cons of Entity Framework's Compiled Query "
 date: 2023-05-17T15:59:38+03:00
+pin : true
+image: "https://learn.microsoft.com/en-us/ef/ef6/media/net45logscale.png"
+tags: ["Entity Framework", "C#", ".NET", "Performance"]
 draft: false
 ---
 
 ## Pros and Cons of Entity Framework's Compiled Query
+
+![](https://learn.microsoft.com/en-us/ef/ef6/media/net45logscale.png)
 
 Entity Framework (EF) is an object-relational mapper (ORM) that allows developers to interact with databases using objects. EF provides a number of features that make it a powerful tool for data access, including compiled queries.
 
@@ -28,13 +33,13 @@ There are a number of pros and cons to using compiled queries in EF.
 - Compiled queries can be reused, which can further improve performance.
 - Compiled queries can be cached, which can further improve performance.
 
-### Cons:
+#### Cons:
 
 - Compiled queries can be more difficult to debug than ad-hoc queries.
 - Compiled queries can be less flexible than ad-hoc queries.
 - Compiled queries can be more difficult to maintain than ad-hoc queries.
 
-### Examples with C# and .NET 7
+#### Examples with C# and .NET 7
 
 Here is an example of how to use compiled queries in EF with C# and .NET 7:
 
