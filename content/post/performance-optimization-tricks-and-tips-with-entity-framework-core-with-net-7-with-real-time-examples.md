@@ -3,7 +3,7 @@ title: "Performance Optimization Tricks and Tips With Entity Framework Core With
 date: 2023-05-23T20:57:19+03:00
 pin : true
 categories: ["Entity Framework Core", "Performance Optimization"]
-draft: true
+draft: false
 ---
 
 ![](https://i.ytimg.com/vi/TqC7USVOoxQ/maxresdefault.jpg)
