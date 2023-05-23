@@ -140,7 +140,7 @@ mathJax: true
 ## config.toml example
 
 ```toml
-baseURL = "https://dotnetevangelist.net/"
+baseURL = "https://dotnetevangelist.net"
 languageCode = "zh-cn"
 title = "MeiK's blog"
 theme = "github-style"

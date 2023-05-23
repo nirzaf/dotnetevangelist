@@ -1,4 +1,4 @@
-baseURL = "https://dotnetevangelist.net/"
+baseURL = "https://dotnetevangelist.net"
 languageCode = "zh-cn"
 title = "Dotnet Evangelist"
 theme = "github-style"
@@ -13,7 +13,7 @@ github = "nirzaf"
 linkedin = "mfmfazrin"
 email = "mfmfazrin1986@gmail.com"
 hide_post_meta = true
-url = "https://dotnetevangelist.net/"
+url = "https://dotnetevangelist.net"
 keywords = "dot net evangelist, mohamed, fazrin, farook, mfmfazrin, senior, software, engineer"
 rss = false
 lastmod = true
