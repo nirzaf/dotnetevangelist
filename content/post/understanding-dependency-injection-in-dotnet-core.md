@@ -10,6 +10,8 @@ pin: false
 
 ## What is Dependency Injection?
 
+![](https://i.ibb.co/nQsMSKd/di12.jpg)
+
 Dependency Injection is a design pattern that helps us to implement the Dependency Inversion Principle. It is a technique that allows us to inject dependencies into an object rather than creating them inside the object itself. It is a way to achieve loose coupling between objects.
 
 ## What are the pros and cons of Dependency Injection?
