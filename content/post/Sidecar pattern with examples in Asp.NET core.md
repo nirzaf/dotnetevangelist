@@ -2,7 +2,7 @@
 title: "Sidecar Pattern With Examples in Asp.NET Core"
 date: 2023-04-29T23:46:56+03:00
 draft: false
-pin : true
+pin : false
 tags: ["Sidecar", "Asp.NET Core"]
 categories: ["Architecture"]
 featuredImage: "https://miro.medium.com/v2/resize:fit:1400/1*BradCRNTX2go18qcCBNtZQ.png"

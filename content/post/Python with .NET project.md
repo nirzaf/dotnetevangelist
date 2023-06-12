@@ -2,7 +2,7 @@
 title: "Python With .NET Project"
 date: 2023-04-30T06:50:59Z
 draft: false
-pin : true
+pin : false
 tags: ["python", ".net", "c#", "ironpython", "pythonnet"]
 ---
 
@@ -10,7 +10,7 @@ tags: ["python", ".net", "c#", "ironpython", "pythonnet"]
 
 Python is a highly popular high-level dynamic language.
 
-##### There are several advantages to using Python:
+### There are several advantages to using Python:
 
 1. It is easy to learn and use:  Python has a simple and straightforward syntax, making it a great language for beginners. It also has a large and active community, which provides a wealth of resources and support for learners.
 

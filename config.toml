@@ -1,4 +1,4 @@
-baseURL = "https://dotnetevangelist.net/"
+baseURL = "https://dotnetevangelist.net"
 languageCode = "zh-cn"
 title = "Dotnet Evangelist"
 theme = "github-style"
@@ -11,18 +11,19 @@ author = "Fazrin"
 description = "Passionate about making the end-user experience as seamless as possible"
 github = "nirzaf"
 linkedin = "mfmfazrin"
-email = "mfmfazrin1986@gmail.com"
-url = "https://dotnetevangelist.net/"
+email = "info@dotnetevangelist.net"
+hide_post_meta = true
+url = "https://dotnetevangelist.net"
 keywords = "dot net evangelist, mohamed, fazrin, farook, mfmfazrin, senior, software, engineer"
 rss = false
-showPostActivity = false
 lastmod = true
 userStatusEmoji = "😀"
-favicon = "/images/favicon.ico"
+favicon = "https://res.cloudinary.com/dcx7eongu/image/upload/v1682878648/favicon_qwiwxi.ico"
 location = "Qatar"
 enableGitalk = false
 
-perPage = 15
+
+perPage = 30
 pagerDirection = "last"
 createIssueManually = true
 distractionFreeMode = true
@@ -33,7 +34,7 @@ href = "https://nirzaf.github.io"
 [[params.links]]
 title = "Link2"
 href = "https://dotnetevangelist.net"
-icon = "https://avatars.githubusercontent.com/u/18024930?v=4"
+icon = "https://res.cloudinary.com/dcx7eongu/image/upload/v1682878567/avatar_nqsosy.png"
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
