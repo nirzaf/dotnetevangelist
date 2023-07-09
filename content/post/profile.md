@@ -6,14 +6,21 @@ pin: false
 tags: ["Mohamed", "Fazrin", "Farook", "Software", "Engineer"]
 ---
 M.F.M Fazrin (MSc – SE) - 📌 Doha, Qatar.
+
 📞[+97433253203](tel:+97433253203)
+
 📱 [+94772049123](https://wa.me/94772049123)
+
 ✉️ [info@dotnetevangelist.net](mailto:info@dotnetevangelist.net)
 
 🤵🏻 [https://nirzaf.github.io](https://nirzaf.github.io/)
+
 🐱‍👤[https://github.com/nirzaf](https://github.com/nirzaf)
+
 💼[https://linkedin.com/in/mfmfazrin](https://linkedin.com/in/mfmfazrin)
+
 📝[https://dotnetevangelist.net](https://dotnetevangelist.net/)
+
 ⭐[Highest-ranked developer in Qatar](https://stardev.io/top/developers/all/in/qatar)
 
 
