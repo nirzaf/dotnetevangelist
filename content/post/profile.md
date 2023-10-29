@@ -42,11 +42,14 @@ Senior full-stack software engineer looking for challenges to solve, with more t
 
 
 *   **Professional Experience**
-    *   Software Development Specialist (Since July-2022) @ Primary Health Care Corporation (Qatar)
-        *   Project: Nar’aakom Mobile Application (Backend Services)
-        *   Working in backend services migrating REST API to GraphQL with Azure Active Directory and optimizing the query performance using Azure Redis distributed caching
-        *   Migrating data from SQL server to FHIR resources type database
-        *   Developing a system to create Open API to allow third-party services
+    *   Software Development Specialist (July-2022) @ Primary Health Care Corporation (Qatar)
+        *   Project: Nar’aakom Mobile Application (Backend with Azure Functions with C#)
+        *   Working on backend .NET services to migrate REST API to GraphQL with Azure Active Directory.
+        *   Optimizing the query performance using Azure Redis distributed caching.
+        *   Migrating data from SQL server to FHIR (NoSql type) database
+        *   Developing an Open API interface to allow third-party services to integrate with the Nar’aakom application
+        *   Unit testing and Integration testing with [xUnit.net](http://xunit.net/) and Moq framework.
+        *   Tools & Technologies Using - .NET 6 & above, C# 10 & above, Azure Functions, Visual Studio 2022, Jet brains Rider, [xUnit.net](http://xunit.net/), ReSharper, SQL Server 2022, CI CD pipeline in Azure DevOps.
           
         
     *   Senior Full-stack Engineer (July-2020 – June-2022) @ Quadrate Tech Solutions Private Limited
